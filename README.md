@@ -3,6 +3,5 @@
 
 5o Semestre - Engenharia Elétrica - 2020/2 - UFRGS 
 
-* Lista (Área - Semana da Área)
-
-   ex: Lista 2-1 -> Lista 1 da Área 2
+Lista (Área - Semana da Área)
+* ex: Lista 2-1 -> Lista 1 da Área 2
