@@ -16,7 +16,7 @@ ________________________________________________________________________________
 **Área 1 -> Eletrostática**
 * Semana D2
   * Lei de Coulomb e intensidade de campo elétrico
-  * Campo Elétrico devido a distribuições contínuas de cargasURL
+  * Campo Elétrico devido a distribuições contínuas de cargas
   * Lei de Gauss
   * Segunda Equação de Maxwell
 * Semana D3
@@ -24,7 +24,7 @@ ________________________________________________________________________________
   * Dipolo Elétrico e Campo em Meios Materiais
 * Semana D4
   * Condições de Fronteira
-  * Equações de Poisson e Laplace e definição de capacitânciaURL
+  * Equações de Poisson e Laplace e definição de capacitância
   * Capacitores
   * Energia no Campo Eletrostático
 * Semana D5
@@ -33,8 +33,8 @@ ________________________________________________________________________________
 **Área 2 -> Magnetostática**
 * Semana D6
   * Correntes Elétricas, Lei de Ohm e Equação da Continuidade
-  * Leis de Kirchhoff, Lei de Joule, PVC para Correntes EstacionáriasURL
-  * Postulados Fundamentais da Magnetostática; Lei de Biot-SavartURL
+  * Leis de Kirchhoff, Lei de Joule, PVC para Correntes Estacionárias
+  * Postulados Fundamentais da Magnetostática; Lei de Biot-Savart
 * Semana D7
   * Lei circuital de Ampère
   * Potencial Vetorial Magnético
@@ -43,3 +43,8 @@ ________________________________________________________________________________
   * Forças e Torques Magnéticos
   * Campos Magnéticos em Meios Materiais
   * Condições de Fronteira em Magnetostática
+* Semana D9 
+  * Indutância e Indutância Mútua
+  * Energia Magnética
+  * Relação das forças e dos torques magnéticos com a energia magnética
+
