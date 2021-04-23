@@ -6,7 +6,7 @@ Engenharia Elétrica  -  5o Semestre  -  2020/2 - UFRGS
 **Áreas:**
 * Área 1 -> Eletrostática
 * Área 2 -> Magnetostática
-* Área 3 -> ?
+* Área 3 -> Eletrodinâmica
 
 _____________________________________________________________________________________________
 Lista (Área - Semana da Área)
@@ -56,3 +56,10 @@ ________________________________________________________________________________
   * Energia Magnética
   * Relação das forças e dos torques magnéticos com a energia magnética
 
+_____________________________________________________________________________________________
+
+### **Área 3 -> Eletrodinâmica**
+* Semana D10    *(Lista 3-1)*
+  * Indução Eletromagnética
+  * Corrente de Deslocamento
+  * Equações de Maxwell e Condições de Contorno
