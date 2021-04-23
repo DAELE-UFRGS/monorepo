@@ -1,7 +1,7 @@
 # Teoria-Eletromagnetica-Aplicada
 **Códigos de Matlab criados para a disciplina TEORIA ELETROMAGNÉTICA APLICADA A - (ENG04454)**
 
-Engenharia Elétrica  -  5o Semestre  -  2020/2 - UFRGS 
+Engenharia Elétrica  -  5° Semestre  -  2020/2 - UFRGS 
 
 **Áreas:**
 * Área 1 -> Eletrostática
