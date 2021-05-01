@@ -54,7 +54,7 @@ ________________________________________________________________________________
 * Semana D9    *(Lista 2-4)*
   * Indutância e Indutância Mútua
   * Energia Magnética
-  * Relação das forças e dos torques magnéticos com a energia magnética
+  * Relação das Forças e dos Torques Magnéticos com a Energia Magnética
 
 _____________________________________________________________________________________________
 
@@ -63,3 +63,8 @@ ________________________________________________________________________________
   * Indução Eletromagnética
   * Corrente de Deslocamento
   * Equações de Maxwell e Condições de Contorno
+
+* Semana D11    *(Lista 3-2)*
+  * Potenciais para Campos Variantes no Tempo
+  * Equações de Maxwell para Campos Harmônicos
+  * Propagação de Ondas Eletromagnética
