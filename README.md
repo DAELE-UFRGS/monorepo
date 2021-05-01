@@ -67,4 +67,4 @@ ________________________________________________________________________________
 * Semana D11    *(Lista 3-2)*
   * Potenciais para Campos Variantes no Tempo
   * Equações de Maxwell para Campos Harmônicos
-  * Propagação de Ondas Eletromagnética
+  * Propagação de Ondas Eletromagnéticas
