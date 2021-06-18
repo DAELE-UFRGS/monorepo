@@ -1,0 +1,7 @@
+UseTab: false
+IndentWidth: 2
+BreakBeforeBraces: Attach
+IndentCaseLabels: false
+ColumnLimit: 0
+AlignConsecutiveMacros: true
+AllowShortIfStatementsOnASingleLine: Always
