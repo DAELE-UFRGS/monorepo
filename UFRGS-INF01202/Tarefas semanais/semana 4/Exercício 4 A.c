@@ -1,3 +1,17 @@
+/**
+O cardápio de uma lancheria é o seguinte:
+
+Especificação         Código   Preço
+
+Dog                       100        13,00
+Dog especial         101        17,00
+X Salada               104        18,00
+X Lombinho          105         21,00
+Bauru                    110         24,00
+Refrigerante lata   120           4,00
+Escrever um programa que leia o código do item pedido, a quantidade e calcule o valor a ser pago por aquele lanche. O programa deve avisar caso o código seja inválido. Considere que a cada execução somente será calculado um item.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

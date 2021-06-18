@@ -1,3 +1,5 @@
+// Faça um programa que lê o peso de 3 pessoas e um valor que indica um peso de referência. O programa deve informar quantas pessoas possuem um peso superior ou igual ao peso de referência.
+
 #include <stdio.h>
 #include <stdlib.h>
 #define QUANTIDADE 3

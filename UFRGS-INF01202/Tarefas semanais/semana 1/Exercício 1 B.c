@@ -1,3 +1,5 @@
+// Escreva um programa que imprima o resultado da multiplicação de três números inteiros.
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <locale.h>

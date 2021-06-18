@@ -1,3 +1,5 @@
+//Faça uma função chamada menor2 que recebe como parâmetros dois números inteiros e retorna o menor deles. A seguir, faça uma função chamada menor3 que recebe como parâmetro três números inteiros e retorna o menor deles. A função menor3 deve necessariamente usar a função menor2 em sua lógica interna. Escreva um programa principal que leia 3 números, computa qual deles é o menor usando a função menor3 e imprima na tela qual dos números é o menor.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

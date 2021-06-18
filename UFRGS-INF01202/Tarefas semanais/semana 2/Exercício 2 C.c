@@ -1,3 +1,15 @@
+/**
+Faça um programa que calcula a quantidade de latas de tinta necessária e o custo para pintar uma quantidade de chapas de madeira retangulares. O algoritmo deve ler:
+
+a quantidade de chapas que devem ser pintadas
+
+as dimensões de cada chapa (largura e comprimento)
+
+o custo da lata de tinta
+
+a quantidade de metros quadrados que podem ser pintados com uma lata de tinta.
+*/
+
 #include <locale.h>
 #include <stdio.h>
 #include <stdlib.h>

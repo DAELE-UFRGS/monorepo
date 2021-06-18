@@ -1,3 +1,15 @@
+/**
+Aproveitando o que foi desenvolvido no exercício 11.b, faça um programa que defina um vetor de ponteiros da estrutura carta (definida anteriormente). O tamanho deste vetor também será 52 elementos. Todos os elementos desse vetor devem ser inicializados com valor NULL (isto é, originalmente não apontam para nenhum endereço de memória). Crie uma função verifica_baralho que recebe um vetor de cartas v_in, um vetor de ponteiros de cartas v_out e o tamanho dos vetores. A função deverá copiar para o vetor de saída o endereço das cartas do vetor de entrada que possuem valor par e naipe de copas. Na main imprima todas as cartas apontadas pelo vetor de ponteiros de cartas (não imprima elementos com valor NULL).
+
+? DICA de como copiar endereço de elemento de um vetor para um vetor de ponteiros:
+
+v_out[indice_vout] = &(v_in[indice_vin])
+
+? DICA de como inicializar todos elementos de um vetor de ponteiros como NULL:
+
+tipo* vetor_de_ponteiros[TAMANHO] = {NULL}
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #define CARTAS 52

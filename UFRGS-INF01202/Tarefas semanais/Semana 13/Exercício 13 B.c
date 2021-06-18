@@ -1,3 +1,5 @@
+// Faça um programa que lê um arquivo de texto (cujo nome é informado pelo usuário) contendo números inteiros (um por linha). O programa deve ler esse arquivo e gerar dois novos arquivos textual: impares.txt e pares.txt. No arquivo impares, o programa deve armazenar os números ímpares e no arquivo pares, o programa deve armazenar os números pares. O programa deve armazenar um número por linha.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

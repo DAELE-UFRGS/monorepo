@@ -1,3 +1,11 @@
+/**
+Faça um programa que manipule um arquivo binário. O programa deverá pedir que o usuário indique o nome do arquivo binário (por exemplo, teste.bin). Na primeira execução (considerando um nome específico de arquivo), o programa criará o arquivo, nas demais execuções apenas o lerá.
+
+Se o arquivo não existir, o programa criará este arquivo. Em seguida, pedirá para o usuário digitar um int, um float e um char. E escreverá estes valores no arquivo (nesta respectiva ordem).
+
+Se o arquivo existir, o programa deverá abrí-lo. Depois, deverá-ler um int, um float e um char (nesta respectiva ordem), e imprimir os valores na tela.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

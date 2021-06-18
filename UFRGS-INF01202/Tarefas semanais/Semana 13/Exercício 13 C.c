@@ -1,3 +1,18 @@
+/**
+Faça um programa que lê um arquivo texto informado pelo usuário, em que cada linha possui dois números reais separados por ponto-e-vírgula, que representam as dimensões de um retângulo. O programa deve imprimir, uma linha por vez, a área de cada retângulo representado pelas informações lidas. Considere o uso das funções strtok e atof.
+
+Arquivo de entrada:
+12.45;34.78
+20.89;34.87
+100.56;200.45
+
+Arquivo de saída:
+433.011
+728.4343
+20157.252
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

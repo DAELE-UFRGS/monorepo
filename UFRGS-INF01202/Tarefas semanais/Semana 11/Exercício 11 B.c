@@ -1,3 +1,10 @@
+/**
+Faça um programa que defina uma estrutura carta contendo número (int) e naipe (int ou char). Crie na main um vetor de 52 cartas. Crie uma função inicializa_baralho (do tipo void) que recebe um vetor de 52 cartas e o inicializa com todos os valores possíveis de cartas: ou seja, cada carta do vetor deve ter um par diferente de valor (dentre 13 possíveis) e naipe (dentre 4 possíveis). Crie outra função imprime_cartas (do tipo void) que receba um vetor de cartas e a quantidade de elementos, e imprime todas as cartas. O programa principal deve chamar as duas funções.
+
+Sugestão: use defines para definir número de valores, naipes, total de cartas...
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

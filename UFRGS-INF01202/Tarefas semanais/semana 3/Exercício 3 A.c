@@ -1,3 +1,6 @@
+//Faça um programa que leia o número da conta bancaria e o saldo de um cliente. Caso a conta tenha saldo negativo, o algoritmo deve enviar a seguinte mensagem: CONTA NEGATIVA, caso contrário NORMAL.
+
+
 #include <stdio.h>
 #include <stdlib.h>
 

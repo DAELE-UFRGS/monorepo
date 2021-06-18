@@ -1,3 +1,6 @@
+// Faça um algoritmo que leia um valor inteiro positivo de 3 dígitos, armazene-o em uma variável inteira e determine a soma dos dígitos que formam o valor. Exemplo: o valor 453 tem soma dos dígitos igual a 12 (4 + 5 + 3).
+
+
 #include <stdio.h>
 #include <stdlib.h>
 

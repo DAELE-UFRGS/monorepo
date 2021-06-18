@@ -1,3 +1,5 @@
+// Faça um algoritmo que lê o peso (em kg) e a altura (em m) de uma pessoa e determina (e escreve) o imc (índice de massa corporal), que é dado pela fórmula: IMC = peso/(altura²)
+
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>

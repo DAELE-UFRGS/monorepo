@@ -1,3 +1,13 @@
+/**
+Escreva um programa que leia duas notas referentes a atividades práticas de um aluno (AP1 e AP2), e a nota do trabalho final (TF). Calcule a média final (MF) conforme a ponderação usada na disciplina INF01202 neste semestre, ou seja, MF = 0,35 * AP1 + 0,45 * AP2 + 0,20 * TF, e determine o conceito final do aluno da seguinte forma:
+
+MF >= 8,5 : Conceito A
+8,5 > MF >= 7,5 : Conceito B
+7,5 > MF >= 6,0 : Conceito C
+MF < 6,0: Conceito D
+Ao final, imprima na tela a nota final (com uma casa decimal) e o conceito
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

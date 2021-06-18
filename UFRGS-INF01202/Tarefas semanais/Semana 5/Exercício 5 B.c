@@ -1,3 +1,28 @@
+/**
+Você deve escrever um programa para auxiliar uma campanha para arrecadação de doações. O programa deve inicialmente ler o valor que se deseja arrecadar com a campanha. A seguir, o programa deve ler valores doados, até que o valor arrecadado seja igual ou superior ao valor almejado pela campanha. Ao fim do programa, ele deve informar o total arrecadado e a média dos valores arrecadados.
+
+OBS: O programa deve realizar verificação de consistência dos valores informados (i.e. devem ser sempre positivos)
+
+
+Exemplo de execução:
+
+Informe o valor que se deseja arrecadar: 2500,00
+
+Informe o valor da doação: 100,00
+
+Informe o valor da doação: 300,00
+
+Informe o valor da doação: 50,00
+
+Informe o valor da doação: 1000,00
+
+Informe o valor da doação: 1300,00
+
+Valor total arrecadado: 2750,00
+
+Média das doações: 550,00
+*/
+
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>

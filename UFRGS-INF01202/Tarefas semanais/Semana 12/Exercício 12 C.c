@@ -1,3 +1,11 @@
+/**
+Faça um programa que defina um vetor de elementos da estrutura carta (conforme desenvolvido nos exercícios da semana anterior). Crie uma função carrega_estado que recebe este vetor de cartas e o tamanho do mesmo e retorna um int. Nesta função, peça para o usuário informar um nome de arquivo, depois abra-o para leitura. Se o arquivo não existir, a função deve retornar -1, senão deverá ler os dados do arquivo e retornar a quantidade de elementos lidos. Leia do arquivo um int indicando a quantidade de elementos disponíveis. Depois, preencha o vetor com os elementos lidos do arquivo. Na main, imprima o vetor de cartas.
+
+OBS: Se a quantidade de elementos no arquivo for maior do que o tamanho do vetor, leia somente a quantidade de elementos que caiba no vetor.
+
+DICA: Para imprimir as cartas, use a função imprime_cartas desenvolvida nos exercícios da semana anterior.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

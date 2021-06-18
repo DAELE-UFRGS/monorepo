@@ -1,3 +1,25 @@
+/**
+Faça um programa que lê 2 vetores de 5 posições: v1,v2. O programa deve criar uma matriz 4X5, de tal modo que:
+
+os elementos da 1ª linha da matriz sejam os elementos do vetor v1
+os elementos da 2ª linha sejam os quadrados dos elementos do vetor v2
+os elementos da 3ª linha sejam a multiplicação dos elementos de v1 pelos elementos de v2
+os elementos da 4ª linha sejam:
+0 quando os elementos dos dois vetores forem pares
+1 quando os dois elementos forem ímpares
+2 quando um deles for par e o outro ímpar
+Ao final, imprima a matriz.
+
+Exemplo de execução:
+v1: 5, 3, -7, 2, 6
+v2: 2, 5, 3, 4, 1
+matriz:
+5, 3, -7, 2, 6
+4, 25, 9, 16, 1
+10, 15, -21, 8, 6
+2, 1, 1, 0, 2
+*/
+
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>

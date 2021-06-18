@@ -1,3 +1,5 @@
+// Faça um programa que defina e inicialize um vetor de elementos da estrutura carta (conforme desenvolvido nos exercícios da semana anterior). Crie uma função salva_estado que recebe um vetor de cartas e o tamanho do mesmo. Nesta função, peça para o usuário informar um nome de arquivo, depois abra-o para escrita (criando-o se ele não existir, ou sobrescrevendo-o se existir). Escreva no arquivo um int indicando a quantidade de elementos do vetor. Depois, escreva nele todos os elementos do vetor, ou seja, todas as cartas.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
